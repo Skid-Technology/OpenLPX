@@ -3,7 +3,7 @@
   <br>
   <font size="6"><b>OpenLPX</b></font>
   <br>
-  <font size="3">by Skid Solutions</font>
+  <font size="3">by Skid Solutions - from ytnoos</font>
 </p>
 
 ---
